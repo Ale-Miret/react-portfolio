@@ -5,17 +5,21 @@ This is a simple portfolio website built using React.js. It features sections fo
 
 In the project directory, you can run:
 
-### `npm start`
+```
+npm start
+```
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
+The page will reload when you make changes.
 
-### Deployment
+## Usage
+This website can be used to showcase your work and experience as a developer. You can customize the content of each section to fit your needs and preferences.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## Links
+- [Github Repo](https://github.com/Ale-Miret/react-portfolio) 
+- [Deployed Page](https://ale-miret.github.io/react-portfolio/)
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## License
+This project is licensed under the MIT License.
