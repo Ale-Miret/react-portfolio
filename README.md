@@ -17,6 +17,8 @@ The page will reload when you make changes.
 ## Usage
 This website can be used to showcase your work and experience as a developer. You can customize the content of each section to fit your needs and preferences.
 
+## Screenshot
+![portfolio](./src/images/portfolio_screenshot.png)
 ## Links
 - [Github Repo](https://github.com/Ale-Miret/react-portfolio) 
 - [Deployed Page](https://ale-miret.github.io/react-portfolio/)
