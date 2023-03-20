@@ -12,7 +12,7 @@ function Header() {
           <div className="collapse navbar-collapse" id="navbarResponsive">
             <ul className="navbar-nav ml-auto">
               <li className={`nav-item ${location.pathname === '/' ? 'active' : ''}`}>
-                <Link className="nav-link" to="/">About Me</Link>
+                <Link className="nav-link" to="/react-portfolio">About Me</Link>
               </li>
               <li className={`nav-item ${location.pathname === '/portfolio' ? 'active' : ''}`}>
                 <Link className="nav-link" to="/portfolio">Portfolio</Link>

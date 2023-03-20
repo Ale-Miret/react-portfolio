@@ -7,7 +7,7 @@ function Navigation() {
   return (
     <ul className="nav nav-pills justify-content-center">
       <li className="nav-item">
-        <Link className={`nav-link ${location.pathname === '/' ? 'active' : ''}`} to="/">About Me</Link>
+        <Link className={`nav-link ${location.pathname === '/' ? 'active' : ''}`} to="/react-portfolio">About Me</Link>
       </li>
       <li className="nav-item">
         <Link className={`nav-link ${location.pathname === '/portfolio' ? 'active' : ''}`} to="/portfolio">Portfolio</Link>
