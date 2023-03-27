@@ -4,7 +4,7 @@ import jsQuiz from '../images/codequizimage.png'
 import noteTaker from '../images/notetakerimg.png'
 import jate from '../images/JATE.png'
 import weatherDash from '../images/weather-dashimg.png'
-import pms from '../images/PMS.png'
+import pms from '../images/NoPMS-screenshot.png'
 
 function Portfolio() {
   return (
@@ -97,8 +97,8 @@ function Portfolio() {
               
               <div className="portfolio-caption">
                 <h4>Project 6</h4>
-                <a href="https://your-app.herokuapp.com" target="_blank" rel="noopener noreferrer">
-                <img className="img-fluid" src={pms} alt="Project Management System" />
+                <a href="https://calm-waters-92102.herokuapp.com/" target="_blank" rel="noopener noreferrer">
+                <img className="pms" src={pms} alt="Project Management System" />
               </a>
               &nbsp;&nbsp;
               <a href="https://github.com/Ale-Miret/NoPMS" target="_blank" rel="noopener noreferrer">GitHub Repo</a>

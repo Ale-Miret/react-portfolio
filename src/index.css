@@ -341,3 +341,7 @@ code {
     width: 70%;
   }
 }
+
+.pms {
+  max-width: 50%;
+}
